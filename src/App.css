@@ -1,0 +1,55 @@
+body{
+  margin-left:8%;
+}
+h4{
+  display: inline;
+}
+.round-input{
+  border-radius: 25px ;
+  width:230px;
+  border-color: black;
+}
+#language{
+  height:25px;
+  width:240px;
+  border-width: 2px;
+}
+#screenshot{
+  font-size: 12px;
+}
+#add{
+  position: relative;
+  bottom:2px;
+  left:5px;
+  font-size:15px;
+}
+#file{
+  position: relative;
+  right:150px;
+  display :none
+}
+#imgbox{
+  display: block;
+  background-color: aliceblue;
+  height:25vh;
+  width:30vw;
+  border-width:1px;
+  border-color: rgb(11, 11, 11);
+  border-style: solid;
+}
+#imgbox img{
+  height:100%;
+  position:center;
+}
+#submit{
+ color: rgb(71, 169, 243);  
+ border-color:rgb(71, 169, 243);  
+ width:60px;
+}
+#logo{
+  width:20%;
+  position: relative;
+  left:60%;
+  bottom:-10%;
+  margin-top: -7%;
+}
